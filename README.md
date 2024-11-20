@@ -1,1 +1,1 @@
-/alacritty.png
+![Screenshot](alacritty.png)
