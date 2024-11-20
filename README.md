@@ -1,1 +1,1 @@
-alacritty.png
+/alacritty.png
