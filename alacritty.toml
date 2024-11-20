@@ -1,0 +1,27 @@
+# Primary colors
+[colors.primary]
+background = '#151517'  # black dark
+foreground = '#f7cdd4'  # white foreground
+
+# Normal colors
+[colors.normal]
+black = '#151517'       # black dark
+red = '#d65e7c'         # red dark
+green = '#5cdb8d'       # green dark
+yellow = '#e3bf30'      # yellow dark
+blue = '#53c0cd'        # blue dark
+magenta = '#d92b5f'     # magenta dark
+cyan = '#61f2c7'        # cyan (green light)
+white = '#f0c0d7'       # white dark
+
+# Bright colors
+[colors.bright]
+black = '#303032'       # black light
+red = '#d496c1'         # red light
+green = '#77ebed'       # blue light
+yellow = '#e8c661'      # yellow light
+blue = '#77ebed'        # blue light
+magenta = '#f261a0'     # magenta light
+cyan = '#61f2c7'        # green light
+white = '#f7cdd4'       # white light
+
